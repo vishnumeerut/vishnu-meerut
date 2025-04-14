@@ -143,18 +143,7 @@ Here are some ideas to get you started:
 - **Backend (Learning):** Node.js, Express.js, MongoDB
 - **Other:** Git, GitHub, REST APIs, JWT Authentication
 
-## 🚀 Projects
 
-- Blog app using MERN Stack (with image upload, auth, and CRUD features)
-- OTP Validator UI with advanced input handling
-- Pagination UI with page jump and navigation
-- Worked on internal CRM system and service-based portals
-
-## 🎯 Goals
-
-- Improve backend skills with Node.js & MongoDB  
-- Get better at data structures & algorithms  
-- Prepare for frontend developer interviews
 
 ## 📫 Let's connect!
 
